@@ -1,5 +1,6 @@
 # Sales-Report-2024<br>
 About this Project<br>
+This project was created to analyze te sales of the country by each product, year, category, profit<br>
 
 Dashboard: This dashboard was created using Power Bi, various charts, cards and slicers. Key metrics include:<br>
 Sales by segment<br>
